@@ -4,7 +4,7 @@ variable tld {
 }
 
 variable zone {
-    type = list
+    type = string
     description = "The zone to be created in the top level domain."
 }
 
